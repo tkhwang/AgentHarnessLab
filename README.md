@@ -1,6 +1,6 @@
-# AgentCraft
+# AgentHarnessLab
 
-Build an AI Agent Harness from Scratch with TypeScript and DDD
+Build Claude Code-like Agent Runtime from Scratch using Typescript Domain-Driven-Design
 
 ![img](./docs/figs/diagram.png)
 
